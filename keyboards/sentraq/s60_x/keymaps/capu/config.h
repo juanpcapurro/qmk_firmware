@@ -1,0 +1,6 @@
+#ifndef CAPU_CONFIG_H
+#define CAPU_CONFIG_H
+
+#define MOUSEKEY_DELAY 200
+
+#endif // CAPU_CONFIG_H
